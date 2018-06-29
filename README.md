@@ -1,2 +1,2 @@
 # cocooz
-just start my git journery
+just start my git journey
